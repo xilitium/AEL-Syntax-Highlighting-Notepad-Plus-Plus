@@ -20,6 +20,8 @@ AEL "Asterisk Extension Language" Syntax Highlighting for Notepad++. Works with 
 <br />
 ![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-2.png)
 <br />
-![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-3.png)
+<p>Functions Highlighting Inside operators</p>
+![Functions Highlighting Inside operators](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-3.png)
 <br />
-![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-4.png)
+<p>Macros Example</p>
+![Macros Example](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-4.png)
