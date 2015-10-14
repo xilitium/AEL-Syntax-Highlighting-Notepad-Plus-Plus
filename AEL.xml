@@ -4,7 +4,7 @@
 @version 3.0
 -->
 <NotepadPlus>
-	<AutoComplete language="Asterisk_Dialplan" >
+	<AutoComplete language="AEL" >
 		<Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," additionalWordChar = "." />
 		<!-- DIALPLAN FUNCTIONS -->
 		<KeyWord name="AES_DECRYPT" func="yes">
@@ -7967,17 +7967,8 @@
 				MYSQL(Clear ${resultid})
 				MYSQL(Disconnect ${connid})
 				
-				[Example]
-				exten => _X.,1,MYSQL(Connect connid localhost dbuser dbpass dbname)
-				exten => _X.,2,MYSQL(Query resultid ${connid} SELECT\ scriptname\ from\ mac2pin\ where\ userid=${CALLERIDNAME})
-				exten => _X.,3,MYSQL(Fetch fetchid ${resultid} AGIScript)
-				exten => _X.,4,GotoIf($[${AGIScript} = NULL]?5:7)
-				exten => _X.,5,AGI(${DefaultAGIScript},${EXTEN})
-				exten => _X.,6,Goto(_X.,8)
-				exten => _X.,7,AGI(${AGIScript},${EXTEN})
-				exten => _X.,8,MYSQL(Clear ${resultid})
-				exten => _X.,9,MYSQL(Disconnect ${connid})
-				exten => _X.,10,Hangup">
+				[Arguments]
+				  &#x2022; params">
 				<Param name="COMMAND params" />
 			</Overload>
 		</KeyWord>
