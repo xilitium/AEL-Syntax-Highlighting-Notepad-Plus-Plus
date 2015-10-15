@@ -12,6 +12,7 @@ AEL "Asterisk Extension Language" Syntax Highlighting for Notepad++. Works with 
 ##Notes
 <ul>
   <li>These files are still on progress</li>
+  <li><a target="_blank"  href="http://www.xilitium.com/blog/3/ael-asterisk-extension-language-syntax-highlighting-for-notepad">More info</a></li>
 </ul>
 
 ##Images
@@ -29,7 +30,7 @@ AEL "Asterisk Extension Language" Syntax Highlighting for Notepad++. Works with 
 ####Dark Styles
 <p>Highlighting for Mono Industrial Theme</p>
 ![Highlighting for Mono Industrial  Theme](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-1.png)
-<br>
+<br><br />
  ![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-2.png)
- <br>
+ <br><br />
  ![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-3.png)
