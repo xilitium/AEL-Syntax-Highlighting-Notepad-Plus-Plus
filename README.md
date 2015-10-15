@@ -25,3 +25,11 @@ AEL "Asterisk Extension Language" Syntax Highlighting for Notepad++. Works with 
 <br />
 <p>Macros Example</p>
 ![Macros Example](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-4.png)
+
+####Dark Styles
+<p>Highlighting for Mono Industrial Theme</p>
+![Highlighting for Mono Industrial  Theme](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-1.png)
+<br>
+ ![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-2.png)
+ <br>
+ ![](http://i703.photobucket.com/albums/ww40/xilitium/ael-syntax-highlighting-notepad-dark-mono-industrial-3.png)
