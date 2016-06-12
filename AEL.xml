@@ -6767,7 +6767,7 @@
 				Echos back any media or DTMF frames read from the calling channel back to itself. This will not echo
 				CONTROL, MODEM, or NULL frames. Note: If '#' detected application exits.
 				
-				This application does not automatically answer and should be preceeded by an application such as 
+				This application does not automatically answer and should be preceded by an application such as 
 				Answer() or Progress().
 				
 				[Asterisk Version]
